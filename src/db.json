@@ -1,0 +1,219 @@
+{
+  "categories": [
+    {
+      "name": "Adidas",
+      "id": 1
+    },
+    {
+      "name": "Nike",
+      "id": 2
+    },
+    {
+      "name": "Converse",
+      "id": 3
+    },
+    {
+      "name": "New Balance",
+      "id": 4
+    },
+    {
+      "name": "Vans",
+      "id": 5
+    },
+    {
+      "name": "Puma",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "cate_id": "6",
+      "name": "Puma RS-X",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-d6a8e.appspot.com/o/images%2FPuma%20RS-X.webp?alt=media&token=36def26c-dd8e-482c-a599-91244e990498",
+      "price": "80",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur vulputate eleifend. Sed eu posuere velit. Etiam non pharetra risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>",
+      "id": 2
+    },
+    {
+      "cate_id": "1",
+      "name": "Adidas YZY QNTM - Barium",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-d6a8e.appspot.com/o/images%2FAdidas%20YZY%20QNTM%20-%20Barium.jpg?alt=media&token=39e8e5a1-6ce6-48eb-acb6-879ef1a7bb95",
+      "price": "299",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur vulputate eleifend. Sed eu posuere velit. Etiam non pharetra risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>",
+      "id": 3
+    },
+    {
+      "cate_id": "2",
+      "name": "Nike Air Jordan 3",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-d6a8e.appspot.com/o/images%2FNike%20Air%20Jordan%203.webp?alt=media&token=457bc5ea-1e66-4a70-ba48-b1c141d3f561",
+      "price": "185",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur vulputate eleifend. Sed eu posuere velit. Etiam non pharetra risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>",
+      "id": 4
+    },
+    {
+      "cate_id": "3",
+      "name": "Converse Chuck 70",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-d6a8e.appspot.com/o/images%2FConverse%20Chuck%2070.jpg?alt=media&token=5392949d-b8ab-4f2d-9cc8-6e2c547092c4",
+      "price": "99",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur vulputate eleifend. Sed eu posuere velit. Etiam non pharetra risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>",
+      "id": 5
+    },
+    {
+      "cate_id": "4",
+      "name": "New Balance Fresh Foam ROAV",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-d6a8e.appspot.com/o/images%2FNew%20Balance%20Fresh%20Foam%20ROAV.jpg?alt=media&token=90b06d7d-0790-4df6-8693-ffd135bace56",
+      "price": "80",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur vulputate eleifend. Sed eu posuere velit. Etiam non pharetra risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>",
+      "id": 6
+    },
+    {
+      "cate_id": "5",
+      "name": "Vans Authentic - Gum Block",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-d6a8e.appspot.com/o/images%2FVans%20Authentic%20-%20Gum%20Block.webp?alt=media&token=db495494-98c1-48a3-b1bd-769cf5ae8844",
+      "price": "99",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur vulputate eleifend. Sed eu posuere velit. Etiam non pharetra risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>",
+      "id": 7
+    },
+    {
+      "cate_id": "6",
+      "name": "Puma RS-G - Pureed Pumpkin",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-d6a8e.appspot.com/o/images%2FPuma%20RS-G%20-%20Pureed%20Pumpkin.webp?alt=media&token=8bbe0a5b-9359-476b-a2cc-ddaee3253e77",
+      "price": "82",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur vulputate eleifend. Sed eu posuere velit. Etiam non pharetra risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>",
+      "id": 8
+    },
+    {
+      "cate_id": "1",
+      "name": "Adidas Ultraboost 20",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-d6a8e.appspot.com/o/images%2FAdidas%20Ultraboost%2020.webp?alt=media&token=dcc6227a-8ad2-4c58-99f0-2275eff70ee0",
+      "price": "119",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur vulputate eleifend. Sed eu posuere velit. Etiam non pharetra risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>",
+      "id": 9
+    },
+    {
+      "cate_id": "2",
+      "name": "Nike Air Max 90",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-d6a8e.appspot.com/o/images%2FNike%20Air%20Max%2090.webp?alt=media&token=d252b336-2efe-4d50-8b33-44606c688bc4",
+      "price": "119",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur vulputate eleifend. Sed eu posuere velit. Etiam non pharetra risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>",
+      "id": 10
+    },
+    {
+      "cate_id": "3",
+      "name": "Converse GOLF le FLEUR",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-d6a8e.appspot.com/o/images%2FConverse%20GOLF%20le%20FLEUR.webp?alt=media&token=6345112d-3db3-4ade-a07c-e1d9b4a867ad",
+      "price": "89",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur vulputate eleifend. Sed eu posuere velit. Etiam non pharetra risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>",
+      "id": 11
+    },
+    {
+      "cate_id": "4",
+      "name": "New Balance 009",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-d6a8e.appspot.com/o/images%2FNew%20Balance%20009.jpg?alt=media&token=549da637-9ee5-4339-ac94-56f78d96aefe",
+      "price": "70",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur vulputate eleifend. Sed eu posuere velit. Etiam non pharetra risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>",
+      "id": 12
+    },
+    {
+      "cate_id": "5",
+      "name": "Vans Style 36",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-d6a8e.appspot.com/o/images%2FVans%20Style%2036.jpg?alt=media&token=ba0154bd-52c8-45d9-8a5d-63c89bae3a4b",
+      "price": "99",
+      "content": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras efficitur vulputate eleifend. Sed eu posuere velit. Etiam non pharetra risus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</p>",
+      "id": 13
+    }
+  ],
+  "types": [
+    {
+      "name": "Adidas",
+      "id": 1
+    },
+    {
+      "name": "Nike",
+      "id": 2
+    },
+    {
+      "name": "Converse",
+      "id": 3
+    },
+    {
+      "name": "New Balance",
+      "id": 4
+    },
+    {
+      "name": "Vans",
+      "id": 5
+    },
+    {
+      "name": "Puma",
+      "id": 6
+    }
+  ],
+  "posts": [
+    {
+      "type_id": "4",
+      "name": "New Balance 327 của Sơn Tùng MT-P",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-d6a8e.appspot.com/o/images%2Fsontung.webp?alt=media&token=8434f806-ae42-4e49-a7dc-b1512c610c63",
+      "description": "Ngày hôm qua chàng ca sĩ điển trai đã tái xuất mạng xã hội bằng một tấm ảnh pose outfit quen thuộc",
+      "content": "<p>MT-P đang mang mẫu giày Casablanca x New Balance 327 - một phiên bản giới hạn mà New Balance kết hợp cùng thương hiệu thời trang Pháp - Casablanca. Đôi giày này hiện đang có giá trên thị trường resell $350-$650 tùy theo size.</p>",
+      "date": "11-08-2020",
+      "id": 1
+    },
+    {
+      "type_id": "2",
+      "name": "Phân biệt hàng chính hãng/hàng giả Air Jordan 11",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-d6a8e.appspot.com/o/images%2FPh%C3%A2n%20bi%E1%BB%87t%20h%C3%A0ng%20ch%C3%ADnh%20h%C3%A3ng%20h%C3%A0ng%20gi%E1%BA%A3%20Air%20Jordan%2011.jpg?alt=media&token=b29b0b7a-c5bf-41ed-9297-b68da18f7080",
+      "description": "Giày chính hãng da có vân khá đẹp, rờ mượt tay và vân nổi rõ. Giày fake rờ có cảm giác nhám tay hơn.",
+      "content": "<p>Các so sánh trong bài viết được thực hiện khách quan, bạn có thể dùng để legit check cho giày của mình. Tuy nhiên mình ko đảm bảo 100% giày của bạn sẽ giống chính xác như hình (có thể do factory flaws hay hư hỏng trong quá trình mang)</p><p>Giày giày chính hãng da có vân khá đẹp, rờ mượt tay và vân nổi rõ. Giày fake cũng có vân nhưng da bóng hơn, rờ có cảm giác nhám tay hơn.</p><p>Tag Jordan sẽ nằm ngay ở mắt cài giày thứ 3. Fake lệnh xuống phía dưới.</p><p>Phần da giữa lưỡi gà và da bóng trên đôi fake bị căng ra nên ko hiện rõ vân trong khi giày thật có thể thấy chi tiết.</p><p>Chưa kể độ dài của phần da này cũng ngắn hơn so với đôi chính hãng.</p><p>Đôi fake logo Jumpman nằm thấp xuống dưới, sát với patent leather. Đôi chính hãng ngược lại.</p><p>Đường kim mũi chỉ cũng khác nhau 1 trời 1 vực. Phần da suede được may bằng 2 đường chỉ nhưng đôi fake da bị gập vào, che mất hẳn 1 đường chỉ trong khi đôi thật vẫn khá rõ ràng.</p><p>Một yếu tố nữa ở phần da ở thân, đôi fake có da bị bẹp xuống, bóng và ko lộ rõ vân da như giày thật.</p>",
+      "date": "11-08-2020",
+      "id": 2
+    },
+    {
+      "type_id": "1",
+      "name": "Giày Adidas chính hãng giá bao nhiêu một đôi?",
+      "image": "https://firebasestorage.googleapis.com/v0/b/react-d6a8e.appspot.com/o/images%2FGi%C3%A0y%20Adidas%20ch%C3%ADnh%20h%C3%A3ng%20gi%C3%A1%20bao%20nhi%C3%AAu%20m%E1%BB%99t%20%C4%91%C3%B4i.jpg?alt=media&token=dc5ea416-bd0f-49a5-b161-88d008697521",
+      "description": "Giày Adidas là một trong những thương hiệu giày nổi tiếng trên toàn thế giới",
+      "content": "<p>Adidas là một thương hiệu nổi tiếng trên toàn cầu về thiết kế cực ấn tượng, thời trang và phong cách, kết hợp với giày được may từ những chất liệu cao cấp hàng đầu, luôn áp dụng các kỹ thuật công nghệ cao trong từng phiên bản,… Chính vì thế mà mỗi sản phẩm hay mỗi dòng giày thể thao Adidas được tung ra trên thị trường, đều tạo thành những cơn Hot Hit trong giới mộ điệu, thậm chí có những phiên bản cháy hàng chỉ trong tích tắc bởi tốc độ săn lùng cực nhanh của khách hàng.</p><p>Sở hữu một đôi giày Adidas chính hiệu, bạn không chỉ thể hiện sự thời trang, cá tính và phong cách năng động bởi thiết kế bắt mắt của sản phẩm, mà còn cảm nhận được sự êm ái, thoải mái và nhẹ nhàng trong mọi cử động chân khi mang giày. Chính vì những lý do đó mà giá của các đôi giày Adidas chính hãng thường có giá khá cao, thậm chí có những phiên bản đặc biệt và giới hạn có mức giá lên đến ngàn đô.</p><p>Các dòng sản phẩm này được đánh giá là một trong số những đôi giày chính hãng Adidas có giá mắc nhất bởi số lượng sản xuất trên toàn thế giới rất ít. Tuy nhiên với những sản phẩm hay các dòng được sản xuất với số lượng nhiều thì mức giá thấp hơn rất nhiều. Những sản phẩm này được nhà sản xuất tung ra với nhiều kiểu dáng, phiên bản màu sắc và giá thành khác nhau, nhưng hầu hết đều dành cho phân khúc bình dân với mức giá vừa phải.</p><h2>Danh sách các cửa hàng Adidas chính hãng ở Hà Nội và Tp.HCM</h2><p>Những cửa hàng này đều là các chi nhánh được phân phối chính hãng của thương hiệu Adidas, vì thế hầu hết đều có đầy đủ các mặt hàng và phiên bản mà thương hiệu đã sản xuất cũng như đã tung ra thị trường. Đến với cửa hàng, bạn sẽ được nhân viên tư vấn và hỗ trợ một cách tốt nhất để có thể lựa chọn và mua được những đôi giày phù hợp với nhu cầu, sở thích và khả năng kinh tế. Bên cạnh đó, trong cửa hàng còn bày bán rất nhiều các quần áo thể thao, đồ dụng và phụ kiện dành cho hoạt động thể thao của thương hiệu Adidas chính hãng dành cho cả nam lẫn nữ và trẻ em.</p><p>Ngoài ra, tại các cửa hàng luôn cập nhập những dòng sản phẩm mới nhất và xu hướng nhất. Mỗi khi có một dòng mới được tung ra thị trường, bạn sẽ thấy có hàng loạt các bạn trẻ tranh thủ xếp hàng để có thể sở hữu trong tay những đôi giày mới nhất và thời thượng nhất. Đội ngũ nhân viên tại cả hàng rất thân thiện và nhiệt tình, sẽ hỗ trợ tư vấn tối đa đối với các khách hàng còn chưa am hiểu về thương hiệu để có thể đưa ra lựa chọn tốt nhất.</p><p>Hiện nay cũng có một số store trên các mặt đường lớn trong thành phố được mở ra và bán hàng Adidas chính hãng với mức giá rẻ hơn. Các hàng này không chỉ bán hàng chính hãng mà còn có những sản phẩm xách tay hoặc second hand nên giá thành sẽ mềm hơn rất nhiều. Tuy nhiên bạn cũng cần có sự cẩn thận và có kiến thức kiểm tra sản phẩm, để tránh mua phải hàng Fake.</p>",
+      "date": "11-8-2020",
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "name": "hiepvc",
+      "address": "abc",
+      "email": "hiepvcph08689@fpt.edu.vn",
+      "phone": "0981016313",
+      "date": "12-8-2020",
+      "id": 1
+    },
+    {
+      "name": "hiepvc",
+      "address": "abc",
+      "email": "vuongchihiep3110@gmail.com",
+      "phone": "0981016313",
+      "date": "12-8-2020",
+      "id": 2
+    }
+  ],
+  "orderDetails": [
+    {
+      "order_id": 1,
+      "product_id": 2,
+      "quantity": "3",
+      "id": 1
+    },
+    {
+      "order_id": 1,
+      "product_id": 3,
+      "quantity": "4",
+      "id": 2
+    },
+    {
+      "order_id": 2,
+      "product_id": 3,
+      "quantity": "3",
+      "id": 3
+    }
+  ]
+}
